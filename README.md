@@ -1,7 +1,7 @@
 # epr_paradox.md
 2025.06.05
 
-* [Can Quantum Mechanics Describe Physical Reality](https://notebooklm.google.com/notebook/8cdad95c-336f-495a-b870-4b97480cbd07/audio)
+* [NotebookLM: Can Quantum Mechanics Describe Physical Reality](https://notebooklm.google.com/notebook/8cdad95c-336f-495a-b870-4b97480cbd07/audio)
 * [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete? A. EINsTEIN, B. PQDoLsKY AND N. RosEN,; 1935 ]()
 * [Discussion of Probability Relations between Separated Systems; E. Schrödinger; 1935]()
 * [ON THE EINSTEIN PODOLSKY ROSEN PARADOX, J.Bell; 1964]()
